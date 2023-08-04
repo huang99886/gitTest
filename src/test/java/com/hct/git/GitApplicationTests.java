@@ -13,6 +13,7 @@ class GitApplicationTests {
         System.out.println("hello git4");
         System.out.println("hello git4");
         System.out.println("hello git5 push");
+         System.out.println("idea  push");
     }
 
 }
